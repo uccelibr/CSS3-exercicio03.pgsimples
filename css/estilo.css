@@ -1,0 +1,46 @@
+
+h1{
+    background-color: gray;
+    border: 30px solid gray;
+    color:white;
+    font-size: 60px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+header{
+    background-color: gray;
+}
+
+div p{
+    text-align: center;
+
+}
+div{
+    width: 80%;
+    background-color: green;
+    border: solid 1px black;
+    padding: 2px;
+    margin: 8%;
+
+}
+
+section{
+    background-color: red;
+    width: 100%;
+    padding: 10px;
+}
+body{
+    background-color: gray;
+}
+
+footer{
+    background-color: gray;
+    padding: 10px;
+    margin: 10px;
+    color:white;
+    font-size: medium;
+    text-align: center;
+}
